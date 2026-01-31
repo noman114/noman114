@@ -44,18 +44,6 @@ I am particularly passionate about the ethical application of technology, curren
 | Email Spam Detection | Comprehensive collection of 100 Machine Learning projects covering Data Science, Deep Learning, and AI. This repository documents my journey from foundational statistics to advanced neural networks and model deployment. | [Live](https://email-classifier-1-n48kyj4vgqmhrxmedx8zrb.streamlit.app/) / [GitHub](https://github.com/noman114/Email-Classifier-1)       |
 | House Price Predictions                     | An interactive web application that predicts real estate market values using a trained Scikit-Learn regression model. Built with Python and Streamlit. (Project 02 of #100ProjectsOfML)                                     | [Live](https://house-price-predictor-manknshbx9uja9jagw8s5a.streamlit.app/) / [GitHub](https://github.com/noman114/house-price-predictor) |
 
-### Email Spam Detection
-
-<img width="1345" height="652" alt="Image" src="https://github.com/user-attachments/assets/11943d71-fb9c-4013-bf05-f649f3847a7e" />
-
-**Technologies Used:** python, pandas, sciket-learn, streamlit
-
-### House Price Predictions
-
-<img width="1345" height="652" alt="Image" src="https://github.com/user-attachments/assets/11943d71-fb9c-4013-bf05-f649f3847a7e" />
-
-**Technologies Used:** python, pandas, sciket-learn, streamlit
-
 ## 🎓 Education
 
 | Institution                    | Degree                 |
