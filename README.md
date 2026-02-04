@@ -37,8 +37,7 @@ I am particularly passionate about the ethical application of technology, curren
 | Corvit Systems                                 | Software Engineer            | 2017-2021         |
 
 
-## 🚀 Projects
-
+## 🚀 Projects <br>
 | Project | Description | Links |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
 | Email Spam Detection | Comprehensive collection of 100 Machine Learning projects covering Data Science, Deep Learning, and AI. This repository documents my journey from foundational statistics to advanced neural networks and model deployment. | [GitHub](https://github.com/noman114/email-spam-detection-system)       |
