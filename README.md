@@ -13,7 +13,7 @@
 
 ## 🚀 About Me
 
-I am an AI-focused Software Engineer and Founder of FTS Technologies with a Master’s in Computer and Information Sciences. My career evolved from building high-performance Full Stack web applications to developing intelligent systems powered by Machine Learning and NLP.
+I am an AI-focused Software Engineer and Founder of FTS Technologies with a Master’s in Computer and Data Sciences. My career evolved from building high-performance Full Stack web applications to developing intelligent systems powered by Machine Learning and NLP.
 I am particularly passionate about the ethical application of technology, currently focusing on mental health research to support early detection and monitoring of psychological conditions. Whether I am training students in Python or architecting predictive analytics models, my goal is to build scalable solutions that address real-world challenges.
 
 <p align="left">
@@ -39,10 +39,10 @@ I am particularly passionate about the ethical application of technology, curren
 
 ## 🚀 Projects
 
-| Project              | Description                                                                                                                                                                                                                 | Links                                                                                                                                         |
+| Project | Description | Links |
 | -------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------- |
-| Email Spam Detection | Comprehensive collection of 100 Machine Learning projects covering Data Science, Deep Learning, and AI. This repository documents my journey from foundational statistics to advanced neural networks and model deployment. | [Live](https://email-classifier-1-n48kyj4vgqmhrxmedx8zrb.streamlit.app/) / [GitHub](https://github.com/noman114/Email-Classifier-1)       |
-| House Price Predictions                     | An interactive web application that predicts real estate market values using a trained Scikit-Learn regression model. Built with Python and Streamlit. (Project 02 of #100ProjectsOfML)                                     | [Live](https://house-price-predictor-manknshbx9uja9jagw8s5a.streamlit.app/) / [GitHub](https://github.com/noman114/house-price-predictor) |
+| Email Spam Detection | Comprehensive collection of 100 Machine Learning projects covering Data Science, Deep Learning, and AI. This repository documents my journey from foundational statistics to advanced neural networks and model deployment. | [GitHub](https://github.com/noman114/email-spam-detection-system)       |
+| House Price Predictions                     | An interactive web application that predicts real estate market values using a trained Scikit-Learn regression model. Built with Python and Streamlit. (Project 02 of #100ProjectsOfML)                                     | [GitHub](https://github.com/noman114/email-spam-detection-system) | AI Assistant Chatbot London | A full-stack intelligent agent powered by Machine Learning, featuring a FastAPI backend and a responsive Next.js frontend. Built with Python, TypeScript, and high-performance data libraries. | [GitHub](https://github.com/noman114/AI-Assistant-Chatbot-London) | Real Time Chat App | GitHub hosts a variety of real-time chat app projects, ranging from simple chat applications to complex, feature-rich messaging platforms. These projects are often built using modern technologies like WebSockets, Node.js, Next.js, Firebase, or Socket.IO. | [Github](https://github.com/noman114/Real-Time-Chat-App)
 
 ## 🎓 Education
 
